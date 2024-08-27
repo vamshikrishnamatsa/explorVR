@@ -1,0 +1,36 @@
+.chatbox{
+  background-color: rgba(10, 115, 134, 0.815);
+  border-radius: 10px;
+  width: 600px;
+  height: 600px;
+  position: fixed;
+  top: 100px;
+  right: 25%;
+  z-index: 100;
+  padding: 10px;
+  overflow: auto;
+}
+
+.response{
+    padding: 10px;
+}
+
+
+
+.text-right{
+    background-color: rgb(204, 109, 14);
+    width: 100px;
+    padding: 10px;
+}
+
+.text-left{
+    background-color: beige;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.text-main{
+    text-align: left;
+    padding: 2px;
+    margin-left: 10px;
+}

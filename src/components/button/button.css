@@ -1,0 +1,12 @@
+.button{
+    color: aqua;
+    background-color: red;
+    height: 50px;
+    width: 200px;
+    border-radius: 30px;
+}
+
+
+.mainB{
+    margin-top: 10px;
+}

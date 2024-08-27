@@ -1,0 +1,37 @@
+.hero{
+    width: auto;
+    height: 680px;
+    width: 100%;
+    position: relative;
+}
+
+.image1{
+    width: 100%;
+    height: 700px;
+    
+}
+.title{
+    color: white;
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    width: 400px;
+    height: 200px;
+}
+
+
+
+.videocover{
+    height: 90%;
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+   position: relative;
+   top: 0px;
+}
+
+.videocover video{
+    height: auto;
+    margin: -8%;
+    width: 100%;
+}

@@ -1,0 +1,9 @@
+.box1{
+    background-color: aquamarine;
+    width: 400px;
+    height: 400px;
+}
+.box2{
+    position: relative;
+    top:100px
+}
